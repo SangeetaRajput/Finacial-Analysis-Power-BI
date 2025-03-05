@@ -1,9 +1,34 @@
 # Finacial-Analysis-Power-BI
 
-# Problem Statement:-
-You are a Financial Data Analyst tasked with analyzing credit card usage and financial metrics for a banking institution. Using the provided data, you will create reports in Power BI by applying DAX functions. Your goal is to calculate financial metrics like running totals, moving averages, and growth rates, and generate KPIs that assess customer behavior, credit utilization, and delinquency risk. The analysis will provide key insights for improving customer retention and financial performance.
+# Overview
+This repository contains a comprehensive analysis of financial and credit card usage data, utilizing Power BI and advanced DAX calculations. The project focuses on analyzing customer behavior, credit risk, and financial performance, providing actionable insights to improve financial management and customer retention.
 
-# Project Aim
+# Key Highlights
+1.Customer Behavior Analysis
+
+ &#8226; Identified high-risk clients with average utilization ratios exceeding 80%.
+
+ &#8226; Created churn indicators for clients with no transactions in the past 6 months.
+
+2.Financial Metrics
+
+ &#8226; Running totals, 4-week moving averages, and MoM/WoW growth trends.
+
+ &#8226; Customer Acquisition Cost (CAC) analyzed as a ratio of transaction amounts.
+ 
+ 3.Risk Indicators
+
+ &#8226; Calculated delinquency rates and created credit risk scores for clients.
+
+ &#8226;Flagged high-risk clients exceeding 90% of their credit limits.
+
+4.Correlation Insights
+
+ &#8226; Analyzed income vs. credit limit relationships.
+
+ &#8226; Evaluated average customer satisfaction scores by card category.
+
+# Key Questions Addressed
 
 1.Running Total of Credit Card Transactions
 
@@ -35,3 +60,11 @@ You are a Financial Data Analyst tasked with analyzing credit card usage and fin
 
 15.High Risk Clients Flag: Create a flag for clients whose Total_Revolving_Bal exceeds 90% of their Credit_Limit and who have a high Avg_Utilization_Ratio.
  
+# Tools & Technologies Used
+ 
+ &#8226; Power BI: For creating interactive dashboards and data visualizations.
+ 
+ &#8226; DAX: Used for advanced calculations and deriving key metrics.
+
+ &#8226; Datasets: Combined customer and credit card data for in-depth analysis.
+
