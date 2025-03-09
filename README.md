@@ -3,6 +3,8 @@
 # Overview
 This repository contains a comprehensive analysis of financial and credit card usage data, utilizing Power BI and advanced DAX calculations. The project focuses on analyzing customer behavior, credit risk, and financial performance, providing actionable insights to improve financial management and customer retention.
 
+Dataset Link : https://docs.google.com/document/d/1aw81WMp--ExoLb3i-lVVWsWmm99bTpmy3yWvp2UVlmg/edit
+
 # Key Highlights
 1.Customer Behavior Analysis
 
